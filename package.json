@@ -1,13 +1,13 @@
 {
-  "name": "@angimenez/react-menu",
+  "name": "@angimenez/react-doomy-component",
   "version": "1.0.0",
-  "description": "Simple menu container",
+  "description": "Boilerplate component",
   "main": "index.js",
   "scripts": {
     "build": "babel ./src --out-file index.js",
     "build2": "rollup --config"
   },
-  "author": "",
+  "author": "Nicolas Gimenez",
   "license": "ISC",
   "peerDependencies": {
     "react": "^16.13.1",
